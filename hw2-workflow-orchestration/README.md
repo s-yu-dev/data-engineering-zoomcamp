@@ -30,7 +30,7 @@ Answer: `1,734,051`
 
 
 ## Question 5
-**How many rows are there for the Yellow Taxi data for the March 2021 CSV file?**
+**How many rows are there for the Yellow Taxi data for the March 2021 CSV file? (1 point)**
 ```sql
 SELECT COUNT(*)
 FROM zoomcamp.yellow_tripdata
